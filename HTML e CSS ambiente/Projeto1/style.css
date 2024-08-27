@@ -3,9 +3,6 @@ body {
     color: #F6F6F6;
 }
 
-h1 {
-    color: aqua;
-}
 
 button {
     background-color: green;
@@ -28,4 +25,8 @@ footer {
 
 a {
     color: blue;
+}
+
+strong {
+    color: #22D4FD;
 }
