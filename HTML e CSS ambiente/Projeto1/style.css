@@ -1,32 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: black;
     color: #F6F6F6;
 }
 
-
-button {
-    background-color: green;
-    color: white;
+.titulo-destaque {
+    color: #22D4FD;
 }
 
-header {
-    background-color: lightblue;
-    color: white;
-}
-
-p {
-    color: darkgray;
-}
-
-footer {
-    background-color: grey;
-    color: white;
-}
-
-a {
-    color: blue;
-}
-
-strong {
+.estagio {
     color: #22D4FD;
 }
