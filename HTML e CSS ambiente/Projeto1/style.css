@@ -17,3 +17,8 @@ body {
 .estagio {
     color: #22D4FD;
 }
+
+.apresentacao-pai {
+    display: flex;
+    align-items: center;
+}
