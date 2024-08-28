@@ -21,4 +21,19 @@ body {
 .apresentacao-pai {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+
+.apresentacao__filho {
+    width: 615px;
+
+}
+
+.apresentacao__filho__titulo {
+    font-size: 36;
+}
+
+.apresentacao__filho__texto {
+    font-size: 24;
 }
