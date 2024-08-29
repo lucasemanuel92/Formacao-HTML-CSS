@@ -23,8 +23,9 @@ body {
 .apresentacao-pai {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin: 10% 15%;
+    gap: -10px;
 }
 
 .apresentacao__filho {
@@ -60,4 +61,9 @@ body {
     text-decoration: none;
     color: #000;
     font-family: 'Montserrat', sans-serif;
+}
+
+.photo {
+    border-radius: 20px;
+    width: 500px;
 }
