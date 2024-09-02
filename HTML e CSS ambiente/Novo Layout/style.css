@@ -75,6 +75,10 @@ body {
     border: 4px solid #22D4FD;
 }
 
+.apresentacao__links__link:hover {
+    background-color: #272727;
+}
+
 .photo {
     border-radius: 20px;
     width: 500px;
