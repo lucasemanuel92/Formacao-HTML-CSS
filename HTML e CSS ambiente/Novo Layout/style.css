@@ -7,7 +7,6 @@
 
 body {
     box-sizing: border-box;
-    height: 100vh;
     background-color: black;
     color: #F6F6F6;
 }
@@ -24,7 +23,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin: 10% 15%;
+    padding: 9% 15%;
     gap: -10px;
 }
 
@@ -82,4 +81,18 @@ body {
 .photo {
     border-radius: 20px;
     width: 500px;
+}
+
+.rodape {
+    color: #000000;
+    background-color:#22D4FD;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.diferente {
+    font-weight: 1000;
 }
